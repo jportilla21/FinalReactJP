@@ -1,0 +1,116 @@
+{
+  "products": [
+    {
+     "id": 1,
+     "title": "Ganador Energía",
+     "price": 32,
+     "stock": 78,
+     "description": "Línea para vacas que están buscando energía, tengan buena proteína, buenos pastos pero sus desplazamientos hacen que necesite energía en su alimnetación.",
+     "brand": "Cáscara Naranja",
+     "category": "cow",
+     "thumbnail": "images/energia.jpg",
+     "images": [
+       "images/energia.jpg",
+       "images/energia.jpg",
+       "images/energia.jpg",
+       "images/energia.jpg"
+     ]
+    },
+    {
+     "id": 2,
+     "title": "Ganador Leche",
+     "price": 34,
+     "stock": 26,
+     "description": "Línea para vacas lecheras con buena proteína y grasa en la leche, que tengan buenos pastos y utlicen cuido en su alimentación.",
+     "brand": "Cáscara Naranja",
+     "category": "cow",
+     "thumbnail": "images/leche.jpg",
+     "images": [
+       "images/leche.jpg",
+       "images/leche.jpg",
+       "images/leche.jpg",
+       "images/leche.jpg"
+     ]
+    },
+    {
+     "id": 3,
+     "title": "Ganador Proteína",
+     "price": 36,
+     "stock": 44,
+     "description": "Línea para vacas de cría, levante y engorde.",
+     "brand": "Cáscara Naranja",
+     "category": "cow",
+     "thumbnail": "images/proteina.jpg",
+     "images": [
+       "images/proteina.jpg",
+       "images/proteina.jpg",
+       "images/proteina.jpg",
+       "images/proteina.jpg"
+     ]
+    },
+    {
+     "id": 4,
+     "title": "Ganador Ovejas",
+     "price": 30,
+     "stock": 24,
+     "description": "Línea para ovejas lecheras que necesiten dismunuir cantidad de cuido en su alimentación.",
+     "brand": "Cáscara Naranja",
+     "category": "sheep",
+     "thumbnail": "images/oveja.jpg",
+     "images": [
+       "images/oveja.jpg",
+       "images/oveja.jpg",
+       "images/oveja.jpg",
+       "images/oveja.jpg"
+     ]
+    },
+    {
+     "id": 5,
+     "title": "Ganador Levante Ovejas",
+     "price": 42,
+     "stock": 154,
+     "description": "Línea para levantar ovejas y mezclar con el cuido dependiendo de la etapa del animal.",
+     "brand": "Cáscara Naranja",
+     "category": "sheep",
+     "thumbnail": "images/ovejaeng.jpg",
+     "images": [
+       "images/ovejaeng.jpg",
+       "images/ovejaeng.jpg",
+       "images/ovejaeng.jpg",
+       "images/ovejaeng.jpg"
+     ]
+    },
+    {
+     "id": 6,
+     "title": "Ganador Porcinos",
+     "price": 39,
+     "stock": 112,
+     "description": "Línea para cerdos en etapa de iniciación, debe de ser utilizado como suplemento, es decir, debe de estar acompañado de cuido.",
+     "brand": "Cáscara Plátano",
+     "category": "pig",
+     "thumbnail": "images/cerdospeq.jpg",
+     "images": [
+       "images/cerdospeq.jpg",
+       "images/cerdospeq.jpg",
+       "images/cerdospeq.jpg",
+       "images/cerdospeq.jpg"
+     ]
+    },
+    {
+     "id": 7,
+     "title": "Ganador Porcinos Levante",
+     "price": 57,
+     "stock": 7,
+     "description": "Línea cerdos en etapa de engorde y finalización. Recomendada utilizarla con cuido para obtener mejores resultados.",
+     "brand": "Cáscara Plátano",
+     "category": "pig",
+     "thumbnail": "images/cerdos.jpg",  
+     "images": [
+       "images/cerdos.jpg",  
+       "images/cerdos.jpg",  
+       "images/cerdos.jpg",  
+       "images/cerdos.jpg"
+     ]
+  }
+ ]
+}

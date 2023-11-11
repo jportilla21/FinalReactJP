@@ -1,0 +1,23 @@
+.footer {
+    position: fixed;
+    left: 16px;
+    bottom: 16px;
+    text-align: left;
+    background: orange;
+    padding: 8px 24px;
+    border-radius: 22px;
+    opacity: .95;
+    backdrop-filter: blur(8px);
+  }
+  
+  .footer span {
+    font-size: 14px;
+    color: rgb(44, 44, 44);
+    opacity: .8;
+  }
+  
+  .footer h4, .footer h5 {
+    margin: 0;
+    display: flex;
+  }
+  
